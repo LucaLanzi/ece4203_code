@@ -1,6 +1,7 @@
 {
     "name": "Cal Poly ECE4203 2026",
     "image": "dvanblerkom/ece4203:2026",
+    "runArgs": ["--platform=linux/amd64"],
     "hostRequirements": {
         "cpus": 4,
         "memory": "8gb",
